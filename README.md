@@ -11,11 +11,7 @@ Order goes as following from *best* to *worst*.
 3. Original 🥉
 
 ```html
-<p>
-  "firstName": "John",
-  "lastName": "Ly",
-  "age": 20
- </p>
+<p>John Ly, 20</p>
 ```
 Finally 
   -   [Click me first](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
