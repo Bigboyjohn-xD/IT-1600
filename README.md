@@ -14,4 +14,4 @@ Order goes as following from *best* to *worst*.
 <p>John Ly, 20</p>
 ```
 Finally 
-  -   [Click me first](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  -   [Click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
