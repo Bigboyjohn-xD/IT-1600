@@ -15,7 +15,7 @@ Order goes as following from *best* to *worst*.
   "firstName": "John",
   "lastName": "Ly",
   "age": 20
- <p>
+ </p>
 ```
 Finally 
   -   [Click me first](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
